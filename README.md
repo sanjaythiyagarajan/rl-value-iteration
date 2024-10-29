@@ -52,7 +52,9 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/1686a8b8-6cec-4714-ae99-856f78b35faa)
+
+![image](https://github.com/user-attachments/assets/e85d0574-0650-4ce5-ba91-25821b23cd49)
+
 
 
 
